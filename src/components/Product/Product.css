@@ -1,0 +1,24 @@
+.userCard {
+    margin: 20px;
+    width: 500px;
+    height: 500px;
+    display: flex;
+
+}
+
+.userContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+
+}
+
+.description {
+    flex: 1 0 auto;
+}
+
+.img {
+    width: 400px;
+    height: 300px;
+}

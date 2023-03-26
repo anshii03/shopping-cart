@@ -1,0 +1,12 @@
+.navItem {
+    margin: 10px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgray !important;
+    border: 1px solid black;
+    align-items: center;
+
+}
